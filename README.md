@@ -3,7 +3,7 @@
 
 **💼:**
 * 🌐 [**Minho Connect**](https://www.minhoconnect.pt) — (Beta) Comunidade de estudantes da universidade do Minho.
-* 🚀 [**PrimeCode PT**](https://primecodept.com) — Desenvolvimento de websites à medida.
+* 🚀 [**PrimeCode PT**](https://primecodept.com) — Desenvolvimento de software à medida.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-santos-9aa429375/) 
