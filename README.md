@@ -1,7 +1,9 @@
 # 💫 About Me:
 🎓 Estudante de Engenharia Informática @ Universidade do Minho.
 
-
+**💼:**
+* 🌐 [**Minho Connect**](https://www.minhoconnect.pt) — (Beta) Comunidade de estudantes da universidade do Minho.
+* 🚀 [**PrimeCode PT**](https://primecodept.com) — Desenvolvimento de websites à medida.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francisco-santos-9aa429375/) 
@@ -13,3 +15,4 @@
 [![](https://komarev.com/ghpvc/?username=eyboss202&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
